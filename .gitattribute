@@ -1,1 +1,2 @@
-*.nc linguist-vendored
+B4/**/* linguist-vendored
+**/*.nc linguist-vendored
